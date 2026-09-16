@@ -1,9 +1,3 @@
-# Example Mod
+# MCDiscordIntegration
 
-## Setup
-
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Mod para Minecraft para uso personal, el cual customiza la actividad al estar jugando, mostrando el nombre del servidor en el cual estas jugando o si es que estas jugando en solitario.
